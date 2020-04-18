@@ -1,0 +1,59 @@
+.brand-logo {
+    margin-left: 10px;
+    image-rendering: pixelated;
+}
+
+body {
+    background-image: url(./restaurant-tea-counter-menu.jpg);
+}
+nav {
+    background-color: transparent !important;
+}
+
+#radio {
+    background-color: #3f51b5 !important;
+}
+.card {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 30%;
+}
+
+.card-title {
+    font-weight: bolder !important;
+    font-family: 'Righteous', cursive !important;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:80%;
+    width:80%;
+    position:absolute;
+}
+.map {
+    margin-left: 10%;
+}
+
+#icon_prefix {
+    border: pink;
+    border-width: thick;
+}
+
+#searchBtn {
+    margin: auto;
+    color: white;
+}
+
+#searchRange {
+    padding-bottom: 20px;
+}
+
+/* #locationBtn {
+    margin: .5%;
+} */
