@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(./restaurant-tea-counter-menu.jpg);
+    background-image: url(/Assets/restaurant-tea-counter-menu.jpg);
 }
 nav {
     background-color: transparent !important;
